@@ -52,7 +52,7 @@ const InvestmentAdvisors = () => {
         title="Investment Advisors & Registered Investment Advisors (RIA) - FinanceHub"
         description="Find top registered investment advisors and financial advisors for personalized investment management. Compare RIA services, fees, and specialties to choose the best financial advisor for your needs."
         keywords="investment advisors, registered investment advisor, financial advisors, RIA, financial advisor, investment management, wealth management, financial planning"
-        canonical="https://financehub.com/investment-advisors"
+        canonical="https://investpro.on-fleek.app/investment-advisors"
       />
 
       {/* Hero Section */}
