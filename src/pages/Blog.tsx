@@ -95,7 +95,7 @@ const Blog = () => {
         title="InvestPro Blog - Registered Investment Advisor, Crypto Exchange & Online Brokerage Accounts"
         description="Expert insights from our registered investment advisors on crypto exchange, online brokerage accounts, cryptocurrency mining, and online investment platforms. Open your invest account today."
         keywords="registered investment advisor, crypto exchange, online brokerage accounts, cryptocurrency mining, bitcoin mining, online investment platforms, trading sites, top online brokerage accounts, invest account, online trading, trading online, financial advisor, investment advisor, investment advisors, financial advisors, crypto, cryptocurrency"
-        canonical="https://financehub.com/blog"
+        canonical="https://investpro.on-fleek.app/investment-advisors"
       />
 
       {/* Hero Section */}
