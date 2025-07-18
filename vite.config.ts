@@ -1,7 +1,11 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
+// https://vitejs.dev/config/
 export default defineConfig({
-  base: './', // IMPORTANT for Fleek/GitHub Pages, makes asset URLs relative
+  base: './',  // <- important for relative paths on Fleek/GitHub Pages
   plugins: [react()],
+  optimizeDeps: {
+    exclude: ['lucide-react'],
+  },
 });
