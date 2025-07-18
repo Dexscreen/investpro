@@ -85,7 +85,7 @@ const CryptoMining = () => {
         title="Cryptocurrency Mining & Bitcoin Mining Equipment Guide - FinanceHub"
         description="Complete guide to cryptocurrency mining and bitcoin mining. Learn about mining hardware, mining pools, profitability, and start your crypto mining operation today."
         keywords="cryptocurrency mining, bitcoin mining, crypto mining, mining equipment, ASIC miners, GPU mining, mining pools, mining profitability"
-        canonical="https://financehub.com/crypto-mining"
+        canonical="https://investpro.on-fleek.app/crypto-mining"
       />
 
       {/* Hero Section */}
