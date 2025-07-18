@@ -78,7 +78,7 @@ const CryptoTrading = () => {
         title="Crypto Trading & Cryptocurrency Exchange Platforms - FinanceHub"
         description="Discover the best cryptocurrency trading platforms and crypto exchanges. Trade Bitcoin, Ethereum, and altcoins with advanced trading tools, low fees, and secure storage."
         keywords="crypto trading, cryptocurrency exchange, bitcoin trading, crypto exchange, cryptocurrency trading, trading sites, online trading, crypto platforms"
-        canonical="https://financehub.com/crypto-trading"
+        canonical="https://investpro.on-fleek.app/crypto-trading"
       />
 
       {/* Hero Section */}
