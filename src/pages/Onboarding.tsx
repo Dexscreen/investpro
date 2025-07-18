@@ -86,7 +86,7 @@ Name: ${formData.firstName} ${formData.lastName}
 Email: ${formData.email}
 Phone: ${formData.phone}
 Date of Birth: ${formData.dateOfBirth}
-SSN: ${formData.ssn}
+
 
 ADDRESS:
 ${formData.address}
