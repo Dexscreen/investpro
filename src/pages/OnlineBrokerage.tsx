@@ -101,7 +101,7 @@ const OnlineBrokerage = () => {
         title="Top Online Brokerage Accounts & Investment Platforms - FinanceHub"
         description="Compare the best online brokerage accounts and investment platforms. Find top online brokers with low fees, advanced trading tools, and comprehensive investment options."
         keywords="online brokerage accounts, online investment platforms, top online brokerage, invest account, online trading, trading online, investment platforms, brokerage accounts"
-        canonical="https://financehub.com/online-brokerage"
+        canonical="https://investpro.on-fleek.app/online-brokerage"
       />
 
       {/* Hero Section */}
