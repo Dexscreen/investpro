@@ -88,7 +88,7 @@ const Home = () => {
         title="InvestPro - All-in-One Investment & Trading Platform"
         description="The ultimate investment platform combining registered investment advisors, crypto trading, online brokerage, and cryptocurrency mining. Zero commissions, AI-powered tools, and 24/7 support."
         keywords="investment advisors, registered investment advisor, crypto trading, online brokerage accounts, cryptocurrency mining, bitcoin mining, financial advisors, online investment platforms, trading sites"
-        canonical="https://investpro.com"
+        canonical="https://investpro.on-fleek.app"
       />
       
       {/* Hero Section */}
