@@ -594,7 +594,7 @@ const BlogPost = () => {
         title={`${post.title} - FinanceHub Blog`}
         description={post.content.substring(0, 160).replace(/<[^>]*>/g, '')}
         keywords={post.keywords.join(', ')}
-        canonical={`https://financehub.com/blog/${slug}`}
+        canonical={`https://investpro.on-fleek.app/blog/${slug}`}
       />
 
       <article className="bg-white">
