@@ -27,7 +27,7 @@ const SEOHead: React.FC<SEOHeadProps> = ({ title, description, keywords, canonic
           "@type": "FinancialService",
           "name": "FinanceHub",
           "description": description,
-          "url": canonical || "https://financehub.com"
+          "url": canonical || "."
         })}
       </script>
     </Helmet>
