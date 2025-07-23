@@ -11,7 +11,6 @@ import CryptoMining from './pages/CryptoMining';
 import Blog from './pages/Blog';
 import BlogPost from './pages/BlogPost';
 import Onboarding from './pages/Onboarding';
-import ChineseInvestment from './pages/ChineseInvestment'; // ✅ Add this
 
 function App() {
   return (
@@ -29,7 +28,6 @@ function App() {
               <Route path="/blog" element={<Blog />} />
               <Route path="/blog/:slug" element={<BlogPost />} />
               <Route path="/onboarding" element={<Onboarding />} />
-              <Route path="/chinese-investment" element={<ChineseInvestment />} /> {/* ✅ Add this */}
             </Routes>
           </main>
           <Footer />
