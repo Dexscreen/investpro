@@ -88,7 +88,7 @@ const Home = () => {
         title="InvestPro - All-in-One Investment & Trading Platform"
         description="The ultimate investment platform combining registered investment advisors, crypto trading, online brokerage, and cryptocurrency mining. Zero commissions, AI-powered tools, and 24/7 support."
         keywords="investment advisors, registered investment advisor, crypto trading, online brokerage accounts, cryptocurrency mining, bitcoin mining, financial advisors, online investment platforms, trading sites"
-        canonical="https://investpro.on-fleek.app"
+        canonical="https://investpro.com"
       />
       
       {/* Hero Section */}
@@ -134,6 +134,13 @@ const Home = () => {
               className="group bg-white/10 backdrop-blur-sm border-2 border-white/30 text-white hover:bg-white hover:text-slate-900 px-10 py-5 rounded-2xl font-bold text-lg transition-all duration-300 transform hover:scale-105"
             >
               Explore Features
+              <ArrowRight className="inline-block ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
+            </Link>
+            <Link 
+              to="/chinese-investment" 
+              className="group bg-gradient-to-r from-red-600 to-orange-600 hover:from-red-700 hover:to-orange-700 text-white px-10 py-5 rounded-2xl font-bold text-lg transition-all duration-300 transform hover:scale-105 shadow-2xl hover:shadow-red-500/25"
+            >
+              中文投资 🇨🇳
               <ArrowRight className="inline-block ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
             </Link>
           </div>
