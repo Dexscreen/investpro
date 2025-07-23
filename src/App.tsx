@@ -10,7 +10,6 @@ import OnlineBrokerage from './pages/OnlineBrokerage';
 import CryptoMining from './pages/CryptoMining';
 import Blog from './pages/Blog';
 import BlogPost from './pages/BlogPost';
-import ChineseInvestment from './pages/ChineseInvestment';
 import Onboarding from './pages/Onboarding';
 
 function App() {
@@ -28,7 +27,6 @@ function App() {
               <Route path="/crypto-mining" element={<CryptoMining />} />
               <Route path="/blog" element={<Blog />} />
               <Route path="/blog/:slug" element={<BlogPost />} />
-              <Route path="/chinese-investment" element={<ChineseInvestment />} />
               <Route path="/onboarding" element={<Onboarding />} />
             </Routes>
           </main>
